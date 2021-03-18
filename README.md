@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsefAbuzerli98
+- 👋 Hi, I’m Asaf Abuzarli
 - 👀 I’m interested in Software development, Data sciences
 - 🌱 I’m currently learning C#, Java
 - 💞️ I’m looking to collaborate on ...
